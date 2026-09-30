@@ -1,4 +1,4 @@
-<img width="188" height="53" alt="image" src="https://github.com/user-attachments/assets/6c434eaa-4484-4bf4-a79d-667b57718895" /><img width="385" height="53" alt="image" src="https://github.com/user-attachments/assets/40237285-4ec3-4219-8a76-0eed53319449" /><img width="385" height="53" alt="image" src="https://github.com/user-attachments/assets/4a7c428e-204e-4661-9375-4dca0b976aed" /># 자율주행·로보틱스 포트폴리오
+자율주행·로보틱스 포트폴리오
 
 [English](README.md)
 
