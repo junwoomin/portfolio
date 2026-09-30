@@ -1,5 +1,3 @@
-![BEV 인지 비교](assets/bev-perception-comparison.png)
-
 # 자율주행·로보틱스 포트폴리오
 
 [English](README.md)
