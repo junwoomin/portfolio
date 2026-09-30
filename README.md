@@ -20,7 +20,6 @@ Woo min Jun's project archive covering real-vehicle integration, perception, CAR
 | GPS and 3D SLAM calibration | Compared real campus GPS positions with a map built using a Velodyne 32-channel LiDAR. | [Examples](docs/projects.md#gps-and-slam-calibration) |
 | AirSim multi-drone control | Controlled multiple drones using Python in AirSim. | [Demo](https://youtu.be/yvPjAFwAV1I) |
 | AirSim, PX4, and QGroundControl | Planned drone routes and executed route-following experiments. | [Demo](https://youtu.be/-G0ETnGmNgc) |
-| MORAI competition simulation | Used the MORAI simulator for a Baemin competition project. | |
 
 ## Research writing
 
