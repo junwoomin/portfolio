@@ -1,5 +1,3 @@
-![BEV perception comparison](assets/bev-perception-comparison.png)
-
 # Autonomous Driving and Robotics Portfolio
 
 [한국어](README_ko.md)
