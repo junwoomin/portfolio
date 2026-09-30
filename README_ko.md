@@ -1,4 +1,4 @@
-# 자율주행·로보틱스 포트폴리오
+<img width="188" height="53" alt="image" src="https://github.com/user-attachments/assets/6c434eaa-4484-4bf4-a79d-667b57718895" /><img width="385" height="53" alt="image" src="https://github.com/user-attachments/assets/40237285-4ec3-4219-8a76-0eed53319449" /><img width="385" height="53" alt="image" src="https://github.com/user-attachments/assets/4a7c428e-204e-4661-9375-4dca0b976aed" /># 자율주행·로보틱스 포트폴리오
 
 [English](README.md)
 
@@ -20,7 +20,6 @@
 | GPS·3D SLAM 캘리브레이션 | 학교의 실제 GPS 위치와 Velodyne 32채널 라이다로 구축한 지도 비교 | [예시](docs/projects.md#gps-and-slam-calibration) |
 | AirSim 다중 드론 제어 | Python으로 여러 드론 제어 | [데모](https://youtu.be/yvPjAFwAV1I) |
 | AirSim·PX4·QGroundControl | 드론 경로 계획 및 루트 이동 실험 | [데모](https://youtu.be/-G0ETnGmNgc) |
-| MORAI 대회 시뮬레이션 | MORAI 시뮬레이터를 활용한 배민 대회 프로젝트 | |
 
 ## 연구 글
 
