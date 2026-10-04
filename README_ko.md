@@ -6,20 +6,20 @@
 
 ## 프로젝트와 데모
 
-| 프로젝트 | 작업 및 역할 | 데모 |
-| --- | --- | --- |
-| ERP42 차선 유지 | 차량 하드웨어·소프트웨어 통합, RS232 통신, ROS 제어, 카메라 기반 차선 인식 및 실차 테스트 | [주행 영상](https://youtu.be/_pjnSMG2kxE) |
-| Multi-task 인지와 3D SLAM | Multi-task 모델 개발 및 실차 탑재, 3D SLAM 파이프라인과 캘리브레이션 | [실차 영상](https://youtu.be/ng5Ybwfu_Hg) |
-| BEV 로컬 경로 계획 | BEV에서 자차가 이동할 수 있는 로컬 경로 생성 및 시각화 | [데모](https://youtu.be/XU9eV1rfoUM) |
-| CARLA에서 ST-P3 구동 | End-to-end 모델을 시뮬레이션에서 실행하고 BEV 관측 및 제어 값 시각화 | [예시](docs/projects.md#st-p3-in-carla) |
-| 초기 CARLA 강화학습 연구 | 차량과 교통 신호를 고려한 모델 방향 및 보상 함수 설계 | [주행 데모](https://youtu.be/x9dXy39g8uU) |
-| MM-LLM과 주행 강화학습 | 멀티모달 LLM을 활용한 end-to-end 강화학습 연구 | [데모](https://youtu.be/raNKD-_KNF0) |
-| Isaac Sim과 장갑 연동 | 장갑 인터페이스와 시뮬레이션 연동 및 강화학습 탐색 | [데모](https://youtu.be/wOnYERak4DE) |
-| QT128 라이다와 무한궤도 로봇 | 라이다 포인트 클라우드 시각화 및 무한궤도 차량 사용 | [사진](docs/projects.md#lidar-and-tracked-robot) |
-| Depth map to 3D point cloud | 깊이 맵을 3D 포인트 클라우드로 변환 | [예시](docs/projects.md#depth-to-point-cloud) |
-| GPS·3D SLAM 캘리브레이션 | 학교의 실제 GPS 위치와 Velodyne 32채널 라이다로 구축한 지도 비교 | [예시](docs/projects.md#gps-and-slam-calibration) |
-| AirSim 다중 드론 제어 | Python으로 여러 드론 제어 | [데모](https://youtu.be/yvPjAFwAV1I) |
-| AirSim·PX4·QGroundControl | 드론 경로 계획 및 루트 이동 실험 | [데모](https://youtu.be/-G0ETnGmNgc) |
+| 프로젝트 | 연도 | 작업 및 역할 | 데모 |
+| --- | --- | --- | --- |
+| ERP42 차선 유지 | 2023 | 차량 하드웨어·소프트웨어 통합, RS232 통신, ROS 제어, 카메라 기반 차선 인식 및 실차 테스트 | [주행 영상](https://youtu.be/_pjnSMG2kxE) |
+| Multi-task 인지와 3D SLAM | 2023 | Multi-task 모델 개발 및 실차 탑재, 3D SLAM 파이프라인과 캘리브레이션 | [실차 영상](https://youtu.be/ng5Ybwfu_Hg) |
+| BEV 로컬 경로 계획 | 2024 | BEV에서 자차가 이동할 수 있는 로컬 경로 생성 및 시각화 | [데모](https://youtu.be/XU9eV1rfoUM) |
+| CARLA에서 ST-P3 구동 | 2024 | End-to-end 모델을 시뮬레이션에서 실행하고 BEV 관측 및 제어 값 시각화 | [예시](docs/projects.md#st-p3-in-carla) |
+| 초기 CARLA 강화학습 연구 | 2025 | 차량과 교통 신호를 고려한 모델 방향 및 보상 함수 설계 | [주행 데모](https://youtu.be/x9dXy39g8uU) |
+| MM-LLM과 주행 강화학습 | 2024 | 멀티모달 LLM을 활용한 end-to-end 강화학습 연구 | [데모](https://youtu.be/raNKD-_KNF0) |
+| Isaac Sim과 장갑 연동 | 2025 | 장갑 인터페이스와 시뮬레이션 연동 및 강화학습 탐색 | [데모](https://youtu.be/wOnYERak4DE) |
+| QT128 라이다와 무한궤도 로봇 | 2024 | 라이다 포인트 클라우드 시각화 및 무한궤도 차량 사용 | [사진](docs/projects.md#lidar-and-tracked-robot) |
+| Depth map to 3D point cloud | 2023 | 깊이 맵을 3D 포인트 클라우드로 변환 | [예시](docs/projects.md#depth-to-point-cloud) |
+| GPS·3D SLAM 캘리브레이션 | 2023 | 학교의 실제 GPS 위치와 Velodyne 32채널 라이다로 구축한 지도 비교 | [예시](docs/projects.md#gps-and-slam-calibration) |
+| AirSim 다중 드론 제어 | 2025 | Python으로 여러 드론 제어 | [데모](https://youtu.be/yvPjAFwAV1I) |
+| AirSim·PX4·QGroundControl | 2025 | 드론 경로 계획 및 루트 이동 실험 | [데모](https://youtu.be/-G0ETnGmNgc) |
 
 ## 연구 글
 
